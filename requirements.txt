@@ -1,0 +1,12 @@
+opencv-python
+numpy
+matplotlib
+ahk
+mss
+pytesseract
+gspread
+tabulate
+pytest
+scikit-image
+imutils
+pandas
